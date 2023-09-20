@@ -1,6 +1,6 @@
 %This script is an example for processing the EM voltage measurements via
 %rotating axes method (RAM)
-%If you need codes for decoding the .csv files of APF-11 floats at matlab files, 
+%If you need codes for decoding the .csv files of APF-11 floats as matlab files, 
 %please contact Dr. Hsu at jyahsu@ntu.edu.tw
 %
 %In the output file, 
